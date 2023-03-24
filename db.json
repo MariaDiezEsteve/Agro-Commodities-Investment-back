@@ -4,16 +4,16 @@
       "id": 1,
       "title": "Cotton",
       "description":"When it comes to finding the best broker for CFD cotton trading, there are a few things to consider.Firstly, look at the fees and commissions that brokers charge. Different brokers will offer different fees and it is important to compare different brokers in order to find one that suits your budget... ",
-      "src": " http://localhost:8081/src/assets/images/imagenes-blog/cotton.jpg",
+      "src": "https://www.coats.com/-/media/Coats/Sustainability/2020/Cotton-Field.jpg?rev=-1&width=1240&height=460&op=crop",
       "alt": "img cotton",
-      "enlace": "http://localhost:8081/src/views/DetailsView.vue",
+      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
       "date": "March 2023"
     },
     {    
       "id": 2,
       "title": "Coffee",
       "description": "The numbers we have just seen make coffee one of the most strategic foods, capturing the interest of investors and speculators alike.It's getting interesting, isn't it? Well, we haven't got to the heart of the matter yet...",
-      "src": "http://localhost:8081/src/assets/images/imagenes-blog/coffee.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg",
       "alt": "img coffee",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "May 2023"
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "Wheat",
       "description": "When it comes to investing in commodities, investment in agricultural commodities is one of the oldest investments on the stock exchanges. However, it is not a simple investment model. In this case, we will focus on how to invest in wheat and what options are available to us as a retail investor to trade this asset. ",
-      "src": "http://localhost:8081/src/assets/images/imagenes-blog/wheat.jpg",
+      "src": "https://www.world-grain.com/ext/resources/Article-Images/2019/10/Wheat_photo-cred-Adobe-stock_E-copy.jpg?height=667&t=1571338495&width=1080",
       "alt": "img wheat",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "April 2023"
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "Sugar",
       "description":"  If you are new to CFD trading, the first thing you will need to do is open a CFD account with a reputable online broker. As wheat is one of the most traded commodities on the market, your chosen broker is likely to offer CFD contracts on this popular commodity. You can then use your account to fund your CFD trades...",
-      "src": "http://localhost:8081/src/assets/images/imagenes-blog/sugar.jpg",
+      "src": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800/public/2022-06/types-of-sugar%C2%A9iStock_3.jpg.webp?itok=drdpz5UK",
       "alt": "img sugar",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "July 2023"
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "Corn",
       "description":"  If you wish to invest in corn, you must first register with a broker. Our commodities experts have selected the best platforms offering corn trading below.....",
-      "src": "http://localhost:8081/src/assets/images/imagenes-blog/corn.jpg",
+      "src": "https://blog.chsbuffalo.org/wp-content/uploads/2019/07/corn-field.jpg",
       "alt": "img corn",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Jun 2023"
