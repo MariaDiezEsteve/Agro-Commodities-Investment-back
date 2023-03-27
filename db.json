@@ -3,13 +3,13 @@
     {
       "id": 1,
       "title": "Cotton",
-      "description":"When it comes to finding the best broker for CFD cotton trading, there are a few things to consider.Firstly, look at the fees and commissions that brokers charge. Different brokers will offer different fees and it is important to compare different brokers in order to find one that suits your budget... ",
+      "description": "When it comes to finding the best broker for CFD cotton trading, there are a few things to consider.Firstly, look at the fees and commissions that brokers charge. Different brokers will offer different fees and it is important to compare different brokers in order to find one that suits your budget... ",
       "src": "https://www.coats.com/-/media/Coats/Sustainability/2020/Cotton-Field.jpg?rev=-1&width=1240&height=460&op=crop",
       "alt": "img cotton",
       "enlace": "http://localhost:8080/src/views/DetailsView.vue",
       "date": "March 2023"
     },
-    {    
+    {
       "id": 2,
       "title": "Coffee",
       "description": "The numbers we have just seen make coffee one of the most strategic foods, capturing the interest of investors and speculators alike.It's getting interesting, isn't it? Well, we haven't got to the heart of the matter yet...",
@@ -27,27 +27,26 @@
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "April 2023"
     },
-    {  
+    {
       "id": 4,
       "title": "Sugar",
-      "description":"  If you are new to CFD trading, the first thing you will need to do is open a CFD account with a reputable online broker. As wheat is one of the most traded commodities on the market, your chosen broker is likely to offer CFD contracts on this popular commodity. You can then use your account to fund your CFD trades...",
+      "description": "  If you are new to CFD trading, the first thing you will need to do is open a CFD account with a reputable online broker. As wheat is one of the most traded commodities on the market, your chosen broker is likely to offer CFD contracts on this popular commodity. You can then use your account to fund your CFD trades...",
       "src": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800/public/2022-06/types-of-sugar%C2%A9iStock_3.jpg.webp?itok=drdpz5UK",
       "alt": "img sugar",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "July 2023"
     },
-    {  
+    {
       "id": 5,
       "title": "Corn",
-      "description":"  If you wish to invest in corn, you must first register with a broker. Our commodities experts have selected the best platforms offering corn trading below.....",
+      "description": "  If you wish to invest in corn, you must first register with a broker. Our commodities experts have selected the best platforms offering corn trading below.....",
       "src": "https://blog.chsbuffalo.org/wp-content/uploads/2019/07/corn-field.jpg",
       "alt": "img corn",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Jun 2023"
     }
   ],
-
-    "blogNoticias": [
+  "blogNoticias": [
     {
       "id": 1,
       "title": "Algodón",
@@ -60,38 +59,78 @@
     {
       "id": 2,
       "title": "Café",
-      "description":"Las cifras que acabamos de ver hacen del café uno de los alimentos más estratégicos, captando el interés de inversores y especuladores por igual. La cosa se pone interesante, ¿verdad? Bueno, aún no hemos llegado al meollo de la cuestión...",
+      "description": "Las cifras que acabamos de ver hacen del café uno de los alimentos más estratégicos, captando el interés de inversores y especuladores por igual. La cosa se pone interesante, ¿verdad? Bueno, aún no hemos llegado al meollo de la cuestión...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/coffee.jpg",
       "alt": "img cafe",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Mayo 2023"
     },
-    {  
+    {
       "id": 3,
       "title": "Trigo",
-      "description":"A la hora de invertir en materias primas, la inversión en productos agrícolas es una de las más antiguas dentro de las bolsas de valores. Sin embargo, no se trata de un modelo de inversión sencillo. En este caso vamos a centrarnos en cómo invertir en trigo y qué opciones podemos tener como inversor minorista para operar con este activo...",
+      "description": "A la hora de invertir en materias primas, la inversión en productos agrícolas es una de las más antiguas dentro de las bolsas de valores. Sin embargo, no se trata de un modelo de inversión sencillo. En este caso vamos a centrarnos en cómo invertir en trigo y qué opciones podemos tener como inversor minorista para operar con este activo...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/wheat.jpg",
       "alt": "img trigo",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Abril 2023"
     },
-    {  
+    {
       "id": 4,
       "title": "Azúcar",
-      "description":" Si es la primera vez que opera con CFD, lo primero que debe hacer es abrir una cuenta de CFD con un corredor en línea de confianza. Como el trigo es una de las materias primas más negociadas en el mercado, es probable que el broker que elija ofrezca contratos CFD sobre esta popular materia prima. A continuación, puede utilizar su cuenta para financiar sus operaciones de CFD...",
+      "description": " Si es la primera vez que opera con CFD, lo primero que debe hacer es abrir una cuenta de CFD con un corredor en línea de confianza. Como el trigo es una de las materias primas más negociadas en el mercado, es probable que el broker que elija ofrezca contratos CFD sobre esta popular materia prima. A continuación, puede utilizar su cuenta para financiar sus operaciones de CFD...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/sugar.jpg",
       "alt": "img azucar",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Julio 2023"
     },
-    {  
+    {
       "id": 5,
       "title": "Maíz",
-      "description":"Si desea invertir en maíz, primero debe registrarse con un broker. Nuestros expertos en materias primas han seleccionado las mejores plataformas que ofrecen operaciones con maíz a continuación...",
+      "description": "Si desea invertir en maíz, primero debe registrarse con un broker. Nuestros expertos en materias primas han seleccionado las mejores plataformas que ofrecen operaciones con maíz a continuación...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/corn.jpg",
       "alt": "img corn",
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Junio 2023"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Daryl Dixon",
+      "email": "darylDixon@gmail.com",
+      "opinion": "This website provides me with the information I need on commodity prices and helps me to visualise historical prices with their graphs."
+    },
+    {
+      "id": 2,
+      "name": "Glenn Rhee",
+      "email": "glennRhee@gmail.com",
+      "opinion": "Amazing website to know the evolution of the prices of raw materials in agriculture and to be able to compare them."
+    },
+    {
+      "id": 3,
+      "name": "Carol Peletier",
+      "email": "carolPeletier@gmail.com",
+      "opinion": "This website is recommended if you want to invest in agricultural commodities. Up-to-date prices."
+    }
+  ],
+  "opiniones": [
+    {
+      "id": 1,
+      "name": "Daryl Dixon",
+      "email": "darylDixon@gmail.com",
+      "opinion": "Este sitio web me proporciona la información que necesito sobre los precios de las materias primas y me ayuda a visualizar los precios históricos con sus gráficos."
+    },
+    {
+      "id": 2,
+      "name": "Glenn Rhee",
+      "email": "glennRhee@gmail.com",
+      "opinion": "Increíble página web para conocer la evolución de los precios de las materias primas en la agricultura y poder compararlos."
+    },
+    {
+      "id": 3,
+      "name": "Carol Peletier",
+      "email": "carolPeletier@gmail.com",
+      "opinion": "Recomendable esta página web si quieres invertir en materias primas de agricultura. Precios actualizados."
     }
   ]
 }
