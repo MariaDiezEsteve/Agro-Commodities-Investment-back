@@ -93,5 +93,62 @@
       "enlace": "http://localhost:8081/src/views/DetailsView.vue",
       "date": "Junio 2023"
     }
+  ],
+
+  "Preguntanos": [
+    {
+      "id": 1,
+      "primeraPregunta": "¿Qué es el mercado de valores?",
+      "primeraRespuesta": "El mercado de valores es uno de los mercados que forman parte del sistema financiero. Permite la canalización de capital a medio y largo plazo de los inversores a las empresas y Administraciones públicas que necesitan recursos, con lo que contribuyen al desarrollo económico.Otros mercados financieros son el mercado monetario, el mercado de divisas, el mercado interbancario, el mercado hipotecario, el mercado de productos básicos (petróleo, oro…), etc"
+    },
+    {
+      "id": 2,
+      "segundaPregunta": "¿Qué debo hacer para tomar una decisión de inversión?",
+      "segungaRespuesta": "Para tomar una decisión de inversión es conveniente seguir cuatro pasos: definir los objetivos de inversión, buscar un intermediario, elegir un producto y vigilar la inversión."
+    },
+    {
+      "id": 3,
+      "terceraPregunta": "¿Qué es el mercado de materias primas?",
+      "terceraRespuesta": "El mercado de las materias primas o de las commodities es otra rama de inversión que nos permite invertir en productos físicos directamente como el oro, el petróleo, el gas o incluso el trigo o el azúcar. "
+    },
+    {
+      "id": 4,
+      "cuartaPregunta": "¿Qué son las materias primas?",
+      "cuartaRespuesta": "Las materias primas son materiales o bienes de origen natural que se obtienen y procesan para su uso en actividades humanas, como el crudo, el azúcar y los metales preciosos. Estos materiales forman la base de nuestra economía, ya que las materias primas son necesarias para la producción de alimentos, energía y ropa."
+    },
+    {
+      "id": 5,
+      "quintaPregunta": "¿Que es el riesgo de inversion?",
+      "quintaRespuesta": "El riesgo es la posibilidad de que nuestra inversión no produzca los resultados que esperamos e incluso, que perdamos parte o todo el capital que hemos invertido inicialmente."
+    }
+  ],
+
+    "askQuestion": [
+      {
+        "id": 1,
+        "question": "¿What is the stock market?",        
+        "answer": "The stock market is one of the markets that are part of the financial system. It allows the channeling of capital in the medium and long term of investors to companies and Administrations that need resources, with which contribute to economic development. Others financial markets are the money market, the foreign exchange market, the interbank market, the mortgage market, etc"
+      },
+      {
+        "id": 2,
+        "question": "¿What should I do to make an investment decision?",
+        "answer": "To make an investment decision, it is convenient to follow four steps: define the investment objectives, find a broker, choose a product and monitor the investment." 
+      },
+      {
+        "id": 3,
+        "question": "¿What is the commodity market?",
+        "answer": "The raw materials or commodities market is another branch of investment that allows us to invest directly in physical products such as gold, oil, gas or even wheat or sugar."
+      },
+      {
+        "id": 4,
+        "question": "¿What are raw materials?",
+        "answer": "Raw materials are materials or goods of natural origin that are obtained and processed for use in       human activities, such as crude oil, sugar and precious metals. These materials form the basis of our economy, since raw materials are necessary for the production of food, energy and clothing."
+      },
+      {
+        "id": 5,
+        "question": "¿What is investment risk?",
+        "answer": "The risk is the possibility that our investment does not produce the results we expect and even that we lose part or all of the capital that we have initially invested."
+      }
   ]
+
 }
