@@ -93,7 +93,6 @@
       "date": "Junio 2023"
     }
   ],
-
   "Preguntanos": [
     {
       "id": 1,
@@ -121,35 +120,33 @@
       "quintaRespuesta": "El riesgo es la posibilidad de que nuestra inversión no produzca los resultados que esperamos e incluso, que perdamos parte o todo el capital que hemos invertido inicialmente."
     }
   ],
-
-    "askQuestion": [
-      {
-        "id": 1,
-        "question": "¿What is the stock market?",        
-        "answer": "The stock market is one of the markets that are part of the financial system. It allows the channeling of capital in the medium and long term of investors to companies and Administrations that need resources, with which contribute to economic development. Others financial markets are the money market, the foreign exchange market, the interbank market, the mortgage market, etc"
-      },
-      {
-        "id": 2,
-        "question": "¿What should I do to make an investment decision?",
-        "answer": "To make an investment decision, it is convenient to follow four steps: define the investment objectives, find a broker, choose a product and monitor the investment." 
-      },
-      {
-        "id": 3,
-        "question": "¿What is the commodity market?",
-        "answer": "The raw materials or commodities market is another branch of investment that allows us to invest directly in physical products such as gold, oil, gas or even wheat or sugar."
-      },
-      {
-        "id": 4,
-        "question": "¿What are raw materials?",
-        "answer": "Raw materials are materials or goods of natural origin that are obtained and processed for use in       human activities, such as crude oil, sugar and precious metals. These materials form the basis of our economy, since raw materials are necessary for the production of food, energy and clothing."
-      },
-      {
-        "id": 5,
-        "question": "¿What is investment risk?",
-        "answer": "The risk is the possibility that our investment does not produce the results we expect and even that we lose part or all of the capital that we have initially invested."
-      }
-    ],
-    
+  "askQuestion": [
+    {
+      "id": 1,
+      "question": "¿What is the stock market?",
+      "answer": "The stock market is one of the markets that are part of the financial system. It allows the channeling of capital in the medium and long term of investors to companies and Administrations that need resources, with which contribute to economic development. Others financial markets are the money market, the foreign exchange market, the interbank market, the mortgage market, etc"
+    },
+    {
+      "id": 2,
+      "question": "¿What should I do to make an investment decision?",
+      "answer": "To make an investment decision, it is convenient to follow four steps: define the investment objectives, find a broker, choose a product and monitor the investment."
+    },
+    {
+      "id": 3,
+      "question": "¿What is the commodity market?",
+      "answer": "The raw materials or commodities market is another branch of investment that allows us to invest directly in physical products such as gold, oil, gas or even wheat or sugar."
+    },
+    {
+      "id": 4,
+      "question": "¿What are raw materials?",
+      "answer": "Raw materials are materials or goods of natural origin that are obtained and processed for use in       human activities, such as crude oil, sugar and precious metals. These materials form the basis of our economy, since raw materials are necessary for the production of food, energy and clothing."
+    },
+    {
+      "id": 5,
+      "question": "¿What is investment risk?",
+      "answer": "The risk is the possibility that our investment does not produce the results we expect and even that we lose part or all of the capital that we have initially invested."
+    }
+  ],
   "reviews": [
     {
       "id": 1,
@@ -190,5 +187,4 @@
       "opinion": "Recomendable esta página web si quieres invertir en materias primas de agricultura. Precios actualizados."
     }
   ]
-
 }
