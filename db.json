@@ -6,7 +6,7 @@
       "description": "When it comes to finding the best broker for CFD cotton trading, there are a few things to consider.Firstly, look at the fees and commissions that brokers charge. Different brokers will offer different fees and it is important to compare different brokers in order to find one that suits your budget... ",
       "src": "https://www.coats.com/-/media/Coats/Sustainability/2020/Cotton-Field.jpg?rev=-1&width=1240&height=460&op=crop",
       "alt": "img cotton",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "March 2023"
     },
     {
@@ -15,7 +15,7 @@
       "description": "The numbers we have just seen make coffee one of the most strategic foods, capturing the interest of investors and speculators alike.It's getting interesting, isn't it? Well, we haven't got to the heart of the matter yet...",
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg",
       "alt": "img coffee",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "May 2023"
     },
     {
@@ -24,7 +24,7 @@
       "description": "When it comes to investing in commodities, investment in agricultural commodities is one of the oldest investments on the stock exchanges. However, it is not a simple investment model. In this case, we will focus on how to invest in wheat and what options are available to us as a retail investor to trade this asset. ",
       "src": "https://www.world-grain.com/ext/resources/Article-Images/2019/10/Wheat_photo-cred-Adobe-stock_E-copy.jpg?height=667&t=1571338495&width=1080",
       "alt": "img wheat",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "April 2023"
     },
     {
@@ -33,7 +33,7 @@
       "description": "  If you are new to CFD trading, the first thing you will need to do is open a CFD account with a reputable online broker. As wheat is one of the most traded commodities on the market, your chosen broker is likely to offer CFD contracts on this popular commodity. You can then use your account to fund your CFD trades...",
       "src": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800/public/2022-06/types-of-sugar%C2%A9iStock_3.jpg.webp?itok=drdpz5UK",
       "alt": "img sugar",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "July 2023"
     },
     {
@@ -42,7 +42,7 @@
       "description": "  If you wish to invest in corn, you must first register with a broker. Our commodities experts have selected the best platforms offering corn trading below.....",
       "src": "https://blog.chsbuffalo.org/wp-content/uploads/2019/07/corn-field.jpg",
       "alt": "img corn",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Jun 2023"
     }
   ],
@@ -53,7 +53,7 @@
       "description": "Cuando se trata de encontrar el mejor corredor para el comercio de algodón CFD, hay algunas cosas a considerar.en primer lugar, mirar las tasas y comisiones que cobran los corredores. Diferentes brokers ofrecerán diferentes comisiones y es importante comparar diferentes brokers para encontrar uno que se adapte a su presupuesto.. ",
       "src": "http://localhost:8080/src/assets/images/imagenes-blog/cotton.jpg",
       "alt": "img algodon",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Marzo 2023"
     },
     {
@@ -62,7 +62,7 @@
       "description": "Las cifras que acabamos de ver hacen del café uno de los alimentos más estratégicos, captando el interés de inversores y especuladores por igual. La cosa se pone interesante, ¿verdad? Bueno, aún no hemos llegado al meollo de la cuestión...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/coffee.jpg",
       "alt": "img cafe",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Mayo 2023"
     },
     {
@@ -71,7 +71,7 @@
       "description": "A la hora de invertir en materias primas, la inversión en productos agrícolas es una de las más antiguas dentro de las bolsas de valores. Sin embargo, no se trata de un modelo de inversión sencillo. En este caso vamos a centrarnos en cómo invertir en trigo y qué opciones podemos tener como inversor minorista para operar con este activo...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/wheat.jpg",
       "alt": "img trigo",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Abril 2023"
     },
     {
@@ -80,7 +80,7 @@
       "description": " Si es la primera vez que opera con CFD, lo primero que debe hacer es abrir una cuenta de CFD con un corredor en línea de confianza. Como el trigo es una de las materias primas más negociadas en el mercado, es probable que el broker que elija ofrezca contratos CFD sobre esta popular materia prima. A continuación, puede utilizar su cuenta para financiar sus operaciones de CFD...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/sugar.jpg",
       "alt": "img azucar",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Julio 2023"
     },
     {
@@ -89,11 +89,10 @@
       "description": "Si desea invertir en maíz, primero debe registrarse con un broker. Nuestros expertos en materias primas han seleccionado las mejores plataformas que ofrecen operaciones con maíz a continuación...",
       "src": "http://localhost:8081/src/assets/images/imagenes-blog/corn.jpg",
       "alt": "img corn",
-      "enlace": "http://localhost:8080/src/views/DetailsView.vue",
+      "enlace": "/details",
       "date": "Junio 2023"
     }
   ],
-
   "Preguntanos": [
     {
       "id": 1,
@@ -121,35 +120,33 @@
       "quintaRespuesta": "El riesgo es la posibilidad de que nuestra inversión no produzca los resultados que esperamos e incluso, que perdamos parte o todo el capital que hemos invertido inicialmente."
     }
   ],
-
-    "askQuestion": [
-      {
-        "id": 1,
-        "question": "¿What is the stock market?",        
-        "answer": "The stock market is one of the markets that are part of the financial system. It allows the channeling of capital in the medium and long term of investors to companies and Administrations that need resources, with which contribute to economic development. Others financial markets are the money market, the foreign exchange market, the interbank market, the mortgage market, etc"
-      },
-      {
-        "id": 2,
-        "question": "¿What should I do to make an investment decision?",
-        "answer": "To make an investment decision, it is convenient to follow four steps: define the investment objectives, find a broker, choose a product and monitor the investment." 
-      },
-      {
-        "id": 3,
-        "question": "¿What is the commodity market?",
-        "answer": "The raw materials or commodities market is another branch of investment that allows us to invest directly in physical products such as gold, oil, gas or even wheat or sugar."
-      },
-      {
-        "id": 4,
-        "question": "¿What are raw materials?",
-        "answer": "Raw materials are materials or goods of natural origin that are obtained and processed for use in       human activities, such as crude oil, sugar and precious metals. These materials form the basis of our economy, since raw materials are necessary for the production of food, energy and clothing."
-      },
-      {
-        "id": 5,
-        "question": "¿What is investment risk?",
-        "answer": "The risk is the possibility that our investment does not produce the results we expect and even that we lose part or all of the capital that we have initially invested."
-      }
-    ],
-    
+  "askQuestion": [
+    {
+      "id": 1,
+      "question": "¿What is the stock market?",
+      "answer": "The stock market is one of the markets that are part of the financial system. It allows the channeling of capital in the medium and long term of investors to companies and Administrations that need resources, with which contribute to economic development. Others financial markets are the money market, the foreign exchange market, the interbank market, the mortgage market, etc"
+    },
+    {
+      "id": 2,
+      "question": "¿What should I do to make an investment decision?",
+      "answer": "To make an investment decision, it is convenient to follow four steps: define the investment objectives, find a broker, choose a product and monitor the investment."
+    },
+    {
+      "id": 3,
+      "question": "¿What is the commodity market?",
+      "answer": "The raw materials or commodities market is another branch of investment that allows us to invest directly in physical products such as gold, oil, gas or even wheat or sugar."
+    },
+    {
+      "id": 4,
+      "question": "¿What are raw materials?",
+      "answer": "Raw materials are materials or goods of natural origin that are obtained and processed for use in       human activities, such as crude oil, sugar and precious metals. These materials form the basis of our economy, since raw materials are necessary for the production of food, energy and clothing."
+    },
+    {
+      "id": 5,
+      "question": "¿What is investment risk?",
+      "answer": "The risk is the possibility that our investment does not produce the results we expect and even that we lose part or all of the capital that we have initially invested."
+    }
+  ],
   "reviews": [
     {
       "id": 1,
@@ -168,6 +165,30 @@
       "name": "Carol Peletier",
       "email": "carolPeletier@gmail.com",
       "opinion": "This website is recommended if you want to invest in agricultural commodities. Up-to-date prices."
+    },
+    {
+      "name": "",
+      "email": "",
+      "opinion": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "opinion": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "opinion": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "opinion": "",
+      "id": 7
     }
   ],
   "opiniones": [
@@ -190,5 +211,4 @@
       "opinion": "Recomendable esta página web si quieres invertir en materias primas de agricultura. Precios actualizados."
     }
   ]
-
 }
